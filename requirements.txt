@@ -1,0 +1,6 @@
+langchain>=1.4.3
+pandas>=3.0.6
+duckdb>=1.5.6
+langgraph-cli>=0.4.32
+langgraph-cli[inmem]
+langchain-google-genai>=4.4.0
